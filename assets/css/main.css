@@ -1,0 +1,24 @@
+/* line 1, ../../../src/assets/scss/theme.scss */
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+/* line 6, ../../../src/assets/scss/theme.scss */
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+/* line 12, ../../../src/assets/scss/theme.scss */
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+/* line 16, ../../../src/assets/scss/theme.scss */
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+/*# sourceMappingURL=main.css.map */
